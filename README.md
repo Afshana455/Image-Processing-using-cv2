@@ -104,4 +104,8 @@ Performs operations such as rotation, flipping, cropping, and scaling.
 |---|---|
 |<img width="1071" height="1600" alt="image" src="https://github.com/user-attachments/assets/d78c0993-d16a-4ad4-9f61-e10dd7c337f2" />|<img width="1071" height="1600" alt="image" src="https://github.com/user-attachments/assets/f46cdf55-2ef8-4b8a-ab36-4e8c7e721018" />|
 
+|Noisy Image | Contrast Image |
+|---|---|
+|<img width="1071" height="1600" alt="image" src="https://github.com/user-attachments/assets/061b94ec-1511-452a-953d-826b692bc7b4" />|<img width="1071" height="1600" alt="image" src="https://github.com/user-attachments/assets/343e3541-306f-4d4e-a263-444f633db2c1" />|
+
 
