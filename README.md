@@ -28,38 +28,15 @@ The project explores fundamental image processing concepts such as image transfo
 ### Clone the repository
 
 ```bash
-git clone https://github.com/your-username/Image-Processing.git
+git clone https://github.com/your-username/Image-Processing-using-cv2.git
 cd Image-Processing-using-cv2
 ```
 
-### 2. Create a virtual environment
+### 2. Install the required libraries
+
 
 ```bash
-python -m venv venv
-```
-
-Activate the virtual environment:
-
-**Windows:**
-```bash
-venv\Scripts\activate
-```
-
-**Linux/macOS:**
-```bash
-source venv/bin/activate
-```
-
-### 3. Install dependencies
-
-```bash
-pip install -r requirements.txt
-```
-
-Alternatively, install the required libraries directly:
-
-```bash
-pip install opencv-python numpy matplotlib
+pip install opencv-python numpy 
 ```
 
 
